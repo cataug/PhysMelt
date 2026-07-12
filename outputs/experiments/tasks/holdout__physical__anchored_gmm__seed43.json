@@ -1,0 +1,8 @@
+{
+  "task_id": "holdout__physical__anchored_gmm__seed43",
+  "protocol": "holdout",
+  "fold": null,
+  "feature_set": "physical",
+  "model": "anchored_gmm",
+  "seed": 43
+}

@@ -1,0 +1,131 @@
+Found 55 AVI files
+Input:  /home/tahiti/PhysMelt/data/raw/NIST_RHF/MPM_AVIs
+Output: /home/tahiti/PhysMelt/data/manifests/video_manifest.csv
+
+[01/55] RHF_MPM_P01.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[02/55] RHF_MPM_P02.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[03/55] RHF_MPM_P03.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[04/55] RHF_MPM_P04.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[05/55] RHF_MPM_P05.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[06/55] RHF_MPM_P06.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[07/55] RHF_MPM_P07.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[08/55] RHF_MPM_P08.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[09/55] RHF_MPM_P09.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[10/55] RHF_MPM_P10.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[11/55] RHF_MPM_P11.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[12/55] RHF_MPM_P12.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[13/55] RHF_MPM_P13.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[14/55] RHF_MPM_P14.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[15/55] RHF_MPM_P15.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[16/55] RHF_MPM_P16.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[17/55] RHF_MPM_P17.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[18/55] RHF_MPM_P18.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[19/55] RHF_MPM_P19.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[20/55] RHF_MPM_P20.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[21/55] RHF_MPM_P21.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[22/55] RHF_MPM_P22.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[23/55] RHF_MPM_P23.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[24/55] RHF_MPM_P24.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[25/55] RHF_MPM_P25.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[26/55] RHF_MPM_P26.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[27/55] RHF_MPM_P27.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[28/55] RHF_MPM_P28.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[29/55] RHF_MPM_P29.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[30/55] RHF_MPM_P30.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[31/55] RHF_MPM_P31.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[32/55] RHF_MPM_P32.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[33/55] RHF_MPM_P33.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[34/55] RHF_MPM_P34.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[35/55] RHF_MPM_P35.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[36/55] RHF_MPM_P36.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[37/55] RHF_MPM_P37.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[38/55] RHF_MPM_P38.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[39/55] RHF_MPM_P39.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[40/55] RHF_MPM_P40.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[41/55] RHF_MPM_P41.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[42/55] RHF_MPM_P42.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[43/55] RHF_MPM_P43.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[44/55] RHF_MPM_P44.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[45/55] RHF_MPM_P45.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[46/55] RHF_MPM_P46.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[47/55] RHF_MPM_P47.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[48/55] RHF_MPM_P48.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[49/55] RHF_MPM_P49.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[50/55] RHF_MPM_P50.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[51/55] RHF_MPM_P51.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[52/55] RHF_MPM_P52.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[53/55] RHF_MPM_P53.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[54/55] RHF_MPM_P54.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+[55/55] RHF_MPM_P55.avi
+    ERROR: [Errno 2] No such file or directory: 'ffprobe'
+
+=== SUMMARY ===
+{
+  "video_directory": "/home/tahiti/PhysMelt/data/raw/NIST_RHF/MPM_AVIs",
+  "video_count": 55,
+  "valid_video_count": 0,
+  "failed_video_count": 55,
+  "total_frames": 0,
+  "total_size_bytes": 3565507000,
+  "total_size_gb": 3.321,
+  "resolutions": [],
+  "frame_rates": [],
+  "pixel_formats": []
+}
+
+CSV:  /home/tahiti/PhysMelt/data/manifests/video_manifest.csv
+JSON: /home/tahiti/PhysMelt/data/manifests/video_summary.json

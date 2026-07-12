@@ -1,0 +1,8 @@
+{
+  "task_id": "cv__physical_temporal__anchored_gmm__fold2__seed44",
+  "protocol": "cross_validation",
+  "fold": 2,
+  "feature_set": "physical_temporal",
+  "model": "anchored_gmm",
+  "seed": 44
+}

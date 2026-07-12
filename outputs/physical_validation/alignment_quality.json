@@ -1,0 +1,10 @@
+{
+  "frame_count": 82390,
+  "intensity_pearson": 0.9997601310880693,
+  "intensity_spearman": 0.9996765602620363,
+  "intensity_mae": 0.012890401536737693,
+  "area_spearman": 0.9819286835607762,
+  "area_pearson": 0.988995470395914,
+  "official_area_pixel_conversion": "area_mm2 / 0.000064",
+  "note": "Official area uses a fixed 80-DL threshold; our area uses adaptive Otsu thresholding, so correlation rather than exact equality is expected."
+}

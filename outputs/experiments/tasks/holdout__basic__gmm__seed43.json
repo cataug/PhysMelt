@@ -1,0 +1,8 @@
+{
+  "task_id": "holdout__basic__gmm__seed43",
+  "protocol": "holdout",
+  "fold": null,
+  "feature_set": "basic",
+  "model": "gmm",
+  "seed": 43
+}

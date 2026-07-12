@@ -1,0 +1,5 @@
+case,video_id,part_number,window_start_frame,window_end_frame,window_duration_ms,window_disagreement_fraction,snapshot_low_frame,snapshot_nominal_frame,snapshot_high_frame,pdf,png
+high_power,RHF_MPM_P12,12,644,948,15.200000000000001,0.006666666666666667,675,660,688,/home/tahiti/PhysMelt/outputs/final_evaluation/figures/01_high_power_P12.pdf,/home/tahiti/PhysMelt/outputs/final_evaluation/figures/01_high_power_P12.png
+temporal_correction,RHF_MPM_P01,1,751,1055,15.200000000000001,0.18666666666666668,789,961,856,/home/tahiti/PhysMelt/outputs/final_evaluation/figures/02_temporal_correction_P01.pdf,/home/tahiti/PhysMelt/outputs/final_evaluation/figures/02_temporal_correction_P01.png
+transition,RHF_MPM_P11,11,258,569,15.55,0.03666666666666667,268,470,276,/home/tahiti/PhysMelt/outputs/final_evaluation/figures/03_transition_P11.pdf,/home/tahiti/PhysMelt/outputs/final_evaluation/figures/03_transition_P11.png
+representative,RHF_MPM_P28,28,1184,1494,15.5,0.01,1350,1268,1280,/home/tahiti/PhysMelt/outputs/final_evaluation/figures/04_representative_P28.pdf,/home/tahiti/PhysMelt/outputs/final_evaluation/figures/04_representative_P28.png

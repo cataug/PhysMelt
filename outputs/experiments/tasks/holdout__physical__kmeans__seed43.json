@@ -1,0 +1,8 @@
+{
+  "task_id": "holdout__physical__kmeans__seed43",
+  "protocol": "holdout",
+  "fold": null,
+  "feature_set": "physical",
+  "model": "kmeans",
+  "seed": 43
+}

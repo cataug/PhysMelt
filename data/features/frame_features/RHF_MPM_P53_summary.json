@@ -1,0 +1,14 @@
+{
+  "video_id": "RHF_MPM_P53",
+  "video_path": "/home/tahiti/PhysMelt/data/raw/NIST_RHF/MPM_AVIs/RHF_MPM_P53.avi",
+  "frame_count": 1498,
+  "physical_fps": 20000.0,
+  "physical_duration_s": 0.0749,
+  "active_candidate_frames": 1459,
+  "inactive_candidate_frames": 39,
+  "active_candidate_fraction": 0.9739652870493992,
+  "mean_intensity_min": 0.01423611111111111,
+  "mean_intensity_max": 9.346111111111112,
+  "threshold_area_min": 6,
+  "threshold_area_max": 471
+}

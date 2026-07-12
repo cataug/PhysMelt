@@ -1,0 +1,28 @@
+{
+  "pdf_count": 10,
+  "png_count": 10,
+  "pdf_files": [
+    "/home/tahiti/PhysMelt/PLOTS_WOW/PDF/01_representation_ablation.pdf",
+    "/home/tahiti/PhysMelt/PLOTS_WOW/PDF/02_model_ranking.pdf",
+    "/home/tahiti/PhysMelt/PLOTS_WOW/PDF/03_external_power_validation.pdf",
+    "/home/tahiti/PhysMelt/PLOTS_WOW/PDF/04_reliability_scorecard.pdf",
+    "/home/tahiti/PhysMelt/PLOTS_WOW/PDF/05_regime_physical_profile.pdf",
+    "/home/tahiti/PhysMelt/PLOTS_WOW/PDF/06_seed_stability.pdf",
+    "/home/tahiti/PhysMelt/PLOTS_WOW/PDF/07_partwise_power_gap.pdf",
+    "/home/tahiti/PhysMelt/PLOTS_WOW/PDF/08_probability_power_density.pdf",
+    "/home/tahiti/PhysMelt/PLOTS_WOW/PDF/09_alarm_precision_recall.pdf",
+    "/home/tahiti/PhysMelt/PLOTS_WOW/PDF/10_edge_latency.pdf"
+  ],
+  "png_files": [
+    "/home/tahiti/PhysMelt/PLOTS_WOW/PNG/01_representation_ablation.png",
+    "/home/tahiti/PhysMelt/PLOTS_WOW/PNG/02_model_ranking.png",
+    "/home/tahiti/PhysMelt/PLOTS_WOW/PNG/03_external_power_validation.png",
+    "/home/tahiti/PhysMelt/PLOTS_WOW/PNG/04_reliability_scorecard.png",
+    "/home/tahiti/PhysMelt/PLOTS_WOW/PNG/05_regime_physical_profile.png",
+    "/home/tahiti/PhysMelt/PLOTS_WOW/PNG/06_seed_stability.png",
+    "/home/tahiti/PhysMelt/PLOTS_WOW/PNG/07_partwise_power_gap.png",
+    "/home/tahiti/PhysMelt/PLOTS_WOW/PNG/08_probability_power_density.png",
+    "/home/tahiti/PhysMelt/PLOTS_WOW/PNG/09_alarm_precision_recall.png",
+    "/home/tahiti/PhysMelt/PLOTS_WOW/PNG/10_edge_latency.png"
+  ]
+}

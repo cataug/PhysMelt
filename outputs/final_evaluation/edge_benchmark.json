@@ -1,0 +1,63 @@
+{
+  "train_frames": 64196,
+  "test_frames": 16049,
+  "feature_count": 2,
+  "feature_names": [
+    "threshold_area",
+    "mean_intensity"
+  ],
+  "gmm_parameter_count": 21,
+  "gmm_model_file": "/home/tahiti/PhysMelt/outputs/final_evaluation/models/physmelt_lite_gmm.npz",
+  "gmm_model_size_bytes": 1831,
+  "gmm_agreement_with_temporal_oof": 0.9482210729640476,
+  "gmm_balanced_agreement": 0.9488185095554499,
+  "gmm_macro_f1_agreement": 0.9476893651337562,
+  "gmm_probability_checksum": 0.3333333333333333,
+  "gmm_inference": {
+    "items": 16049,
+    "repetitions": 30,
+    "median_total_ms": 5.218199919909239,
+    "p95_total_ms": 6.535286759026349,
+    "median_us_per_frame": 0.3251417483898834,
+    "p95_us_per_frame": 0.4072083468768365,
+    "median_fps": 3075581.6653876198
+  },
+  "gmm_scaling_plus_inference": {
+    "items": 16049,
+    "repetitions": 20,
+    "median_total_ms": 9.759239968843758,
+    "p95_total_ms": 10.289773356635123,
+    "median_us_per_frame": 0.6080902217486297,
+    "p95_us_per_frame": 0.641147321118769,
+    "median_fps": 1644492.8141162852
+  },
+  "logistic_parameter_count": 15,
+  "logistic_model_file": "/home/tahiti/PhysMelt/outputs/final_evaluation/models/physmelt_lite_logistic_distilled.npz",
+  "logistic_model_size_bytes": 1548,
+  "logistic_accuracy": 0.9419278459717116,
+  "logistic_balanced_accuracy": 0.9497906117071514,
+  "logistic_macro_f1": 0.9416470311325988,
+  "logistic_probability_checksum": 0.3333333333333333,
+  "logistic_inference": {
+    "items": 16049,
+    "repetitions": 30,
+    "median_total_ms": 4.010675475001335,
+    "p95_total_ms": 4.415857762796803,
+    "median_us_per_frame": 0.24990189264136925,
+    "p95_us_per_frame": 0.275148467991576,
+    "median_fps": 4001570.333983369
+  },
+  "raw_decode_and_minimal_features": {
+    "videos": [
+      "RHF_MPM_P01",
+      "RHF_MPM_P02",
+      "RHF_MPM_P03"
+    ],
+    "frames": 1500,
+    "total_seconds": 0.9562582260696217,
+    "ms_per_frame": 0.6375054840464145,
+    "fps": 1568.6139570952987,
+    "area_mae_against_cache_pixels": 0.0,
+    "intensity_mae_against_cache_dl": 1.1305502168537998e-07
+  }
+}

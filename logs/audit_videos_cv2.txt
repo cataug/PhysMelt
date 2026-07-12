@@ -1,0 +1,5 @@
+Video directory: /home/tahiti/PhysMelt/data/raw/NIST_RHF/MPM_AVIs
+Videos found: 55
+
+[01/55] RHF_MPM_P01.avi
+corrupted size vs. prev_size

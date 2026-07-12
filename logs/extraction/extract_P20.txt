@@ -1,0 +1,37 @@
+Input: /home/tahiti/PhysMelt/data/raw/NIST_RHF/MPM_AVIs/RHF_MPM_P20.avi
+Output: /home/tahiti/PhysMelt/data/features/frame_features/RHF_MPM_P20_features.csv
+Frame chunks: 1498
+  frame 1/1498
+  frame 100/1498
+  frame 200/1498
+  frame 300/1498
+  frame 400/1498
+  frame 500/1498
+  frame 600/1498
+  frame 700/1498
+  frame 800/1498
+  frame 900/1498
+  frame 1000/1498
+  frame 1100/1498
+  frame 1200/1498
+  frame 1300/1498
+  frame 1400/1498
+  frame 1498/1498
+
+{
+  "video_id": "RHF_MPM_P20",
+  "video_path": "/home/tahiti/PhysMelt/data/raw/NIST_RHF/MPM_AVIs/RHF_MPM_P20.avi",
+  "frame_count": 1498,
+  "physical_fps": 20000.0,
+  "physical_duration_s": 0.0749,
+  "active_candidate_frames": 1459,
+  "inactive_candidate_frames": 39,
+  "active_candidate_fraction": 0.9739652870493992,
+  "mean_intensity_min": 0.015347222222222222,
+  "mean_intensity_max": 8.687847222222222,
+  "threshold_area_min": 6,
+  "threshold_area_max": 440
+}
+
+Saved: /home/tahiti/PhysMelt/data/features/frame_features/RHF_MPM_P20_features.csv
+Saved: /home/tahiti/PhysMelt/data/features/frame_features/RHF_MPM_P20_summary.json

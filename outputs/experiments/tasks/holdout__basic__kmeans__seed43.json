@@ -1,0 +1,8 @@
+{
+  "task_id": "holdout__basic__kmeans__seed43",
+  "protocol": "holdout",
+  "fold": null,
+  "feature_set": "basic",
+  "model": "kmeans",
+  "seed": 43
+}

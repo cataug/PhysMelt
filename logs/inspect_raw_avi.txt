@@ -1,0 +1,38 @@
+Video: /home/tahiti/PhysMelt/data/raw/NIST_RHF/MPM_AVIs/RHF_MPM_P01.avi
+Size: 64827400 bytes
+Frame chunks found: 1498
+
+FIRST FRAME
+Index: 0
+Physical time, s: 0.0
+Chunk: b'00db'
+Stored bytes: 43200
+Minimum: 0
+Maximum: 11
+Mean: 0.012
+Unequal RGB channel fraction: 0.0
+Saved: /home/tahiti/PhysMelt/outputs/qc/P01_first.pgm
+
+MIDDLE FRAME
+Index: 749
+Physical time, s: 0.03745
+Chunk: b'00db'
+Stored bytes: 43200
+Minimum: 0
+Maximum: 255
+Mean: 7.071
+Unequal RGB channel fraction: 0.0
+Saved: /home/tahiti/PhysMelt/outputs/qc/P01_middle.pgm
+
+LAST FRAME
+Index: 1497
+Physical time, s: 0.07485
+Chunk: b'00db'
+Stored bytes: 43200
+Minimum: 0
+Maximum: 255
+Mean: 5.433
+Unequal RGB channel fraction: 0.0
+Saved: /home/tahiti/PhysMelt/outputs/qc/P01_last.pgm
+
+Проверка завершена. Терминал остаётся открытым.

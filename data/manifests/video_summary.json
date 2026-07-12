@@ -1,0 +1,12 @@
+{
+  "video_directory": "/home/tahiti/PhysMelt/data/raw/NIST_RHF/MPM_AVIs",
+  "video_count": 55,
+  "valid_video_count": 0,
+  "failed_video_count": 55,
+  "total_frames": 0,
+  "total_size_bytes": 3565507000,
+  "total_size_gb": 3.321,
+  "resolutions": [],
+  "frame_rates": [],
+  "pixel_formats": []
+}

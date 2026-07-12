@@ -1,0 +1,65 @@
+/home/tahiti/.local/lib/python3.12/site-packages/matplotlib/projections/__init__.py:63: UserWarning: Unable to import Axes3D. This may be due to multiple versions of Matplotlib being installed (e.g. as a system package and as a pip package). As a result, the 3D projection is not available.
+  warnings.warn("Unable to import Axes3D. This may be due to multiple versions of "
+Loading PhysMelt modules...
+Frames: 82390
+Active frames: 80245
+
+==============================================================================
+ALARM EVALUATION
+==============================================================================
+
+Definition: top_10_percent_measured_power
+Positive frames: 8043
+Positive fraction: 10.02%
+AUROC: 0.801
+AUPRC: 0.260
+P(high)>=0.5 F1: 0.349
+Temporal-state F1: 0.360
+Temporal event recall: 0.862
+Temporal false alarms per part: 22.418
+
+Definition: measured_power_at_least_180W
+Positive frames: 20822
+Positive fraction: 25.95%
+AUROC: 0.846
+AUPRC: 0.635
+P(high)>=0.5 F1: 0.594
+Temporal-state F1: 0.602
+Temporal event recall: 0.766
+Temporal false alarms per part: 7.127
+
+==============================================================================
+EDGE / DEPLOYMENT BENCHMARK
+==============================================================================
+Basic features: ['threshold_area', 'mean_intensity']
+GMM model size: 1831 bytes
+GMM parameters: 21
+GMM inference: 0.325 us/frame
+GMM inference FPS: 3075582
+Raw decode + minimal features: 0.638 ms/frame
+Raw decode + minimal feature FPS: 1568.6
+Logistic agreement macro-F1: 0.942
+
+==============================================================================
+QUALITATIVE TEMPORAL PANELS
+==============================================================================
+[1/4] high_power: P12, frames 644-948
+[2/4] temporal_correction: P01, frames 751-1055
+[3/4] transition: P11, frames 258-569
+[4/4] representative: P28, frames 1184-1494
+
+==============================================================================
+FINAL PHYS-MELT COMPLETION
+==============================================================================
+Alarm results:
+/home/tahiti/PhysMelt/outputs/final_evaluation/alarm_evaluation.csv
+Edge benchmark:
+/home/tahiti/PhysMelt/outputs/final_evaluation/edge_benchmark.json
+Qualitative manifest:
+/home/tahiti/PhysMelt/outputs/final_evaluation/qualitative_manifest.csv
+Paper-ready summary:
+/home/tahiti/PhysMelt/outputs/final_evaluation/final_completion_summary.md
+Figures:
+/home/tahiti/PhysMelt/outputs/final_evaluation/figures
+
+Final evaluation finished. The terminal remains open.
